@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: black;
 }
 
 .container {
@@ -12,6 +13,7 @@ body {
   width: 100vh;
   margin: 0 auto;
   text-align: center;
+  color: white;
   visibility: hidden;
   position: relative;
   overflow: hidden;
